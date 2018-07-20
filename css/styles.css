@@ -1,1 +1,50 @@
-
+.button{
+  background-color:#009900;
+  border:none;
+  color: white;
+  padding: 15px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button2{
+  background-color:#ff3300;
+  border:none;
+  color: white;
+  padding: 15px 70px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+body{
+  background-color:#66ffcc;
+}
+#me{
+  text-align:center;
+}
+.card{
+  box-shadow:0px 0px 15px 1px rgba(0,0,0,0.75);
+  box-sizing:border-box;
+  text-align: center;
+  background-color:white;
+  }
+  #if{
+    box-shadow:0px 0px 15px 1px rgba(0,0,0,0.75);
+    box-sizing:border-box;
+    text-align: center;
+    background-color:white;
+    padding-bottom:130px;
+    }
+    h1{
+      text-decoration:underline;
+    }
+    img{
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+  
