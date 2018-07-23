@@ -1,5 +1,5 @@
 # Independent Project
-####Ping Pong,2018
+####Pig Dice,2018
 #### By **Natasha Senah**
 ## Description
 This is a detailed description of my application,which is a game that involves two players who have different chance to play.When one gets more points than the other he/she is the winner.
