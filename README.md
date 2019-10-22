@@ -10,7 +10,7 @@ The functioning of the buttons.
 ## Technologies Used
 HTML,CSS,JS,BOOTSTRAP
 ## Support and contact details
-Call 0766889933/0755544333,E-mail:tashsenah@gmail.com
+Call 0766889933/0755544333
 ### License
 Copyright <2018> <Natasha Senah>
 
